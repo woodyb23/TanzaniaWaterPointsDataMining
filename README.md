@@ -15,10 +15,10 @@ Using tutorials from Code School to learn the basics.
 I am just trying out new things here so please feel free to send comments or suggestions.
 The steps I will be taking to analyze the data are:
 
-*Define the problem
-*Prepare data
-*Explore data
-*Build Models
-*Explore and validate models
+* Define the problem
+* Prepare data
+* Explore data
+* Build Models
+* Explore and validate models
 
 ##Define The Problem
