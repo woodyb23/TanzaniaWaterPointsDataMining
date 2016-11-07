@@ -13,8 +13,11 @@ Use SSIS to match the data with the labels based by id.
 Learning R in my part time as well because I noticed that SQL Server 2016 will now allow coding in R. 
 Using tutorials from Code School to learn the basics.
 I am just trying out new things here so please feel free to send comments or suggestions.
-Define the problem
-Prepare data
-Explore data
-Build Models
-Explore and validate models
+The steps I will be taking to analyze the data are:
+1.Define the problem
+2.Prepare data
+3.Explore data
+4.Build Models
+5.Explore and validate models
+
+##Define The Problem
