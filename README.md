@@ -21,8 +21,13 @@ The steps I will be taking to analyze the data are:
 * Build Models
 * Explore and validate models
 
-##Define The Problem
+## Define The Problem
 Predict the operating condition of a waterpoint for each record in the dataset. The data is given in two seperate csv files. One has the data points and the other has id and label of operational status. 
 
-##Prepare data
+## Prepare data
 Need to merge the csv files based upon the id so that I can have all data points with its corresponding operational label. Will do this through a Sql Server Integeration Services package.
+
+
+### Resources
+
+[MSDN - Data Mining Concepts] (https://msdn.microsoft.com/en-us/library/ms174949.aspx)
